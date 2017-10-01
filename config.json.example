@@ -1,0 +1,11 @@
+{
+  "jwt": {
+    "audience": "____",
+    "secret": "____",
+    "issuer": "____"
+  },
+  "google": {
+    "clientId": "____",
+    "clientSecret": "____"
+  }
+}

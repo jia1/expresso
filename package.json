@@ -1,0 +1,26 @@
+{
+  "name": "expresso",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jia1/expresso.git"
+  },
+  "author": "Lim Jia Yee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jia1/expresso/issues"
+  },
+  "homepage": "https://github.com/jia1/expresso#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "express": "^4.16.1",
+    "googleapis": "^22.2.0",
+    "jsonwebtoken": "^8.0.1",
+    "pg-promise": "^6.10.1"
+  }
+}
